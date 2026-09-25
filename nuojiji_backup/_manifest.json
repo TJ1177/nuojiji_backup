@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790320660413,
+  "timestamp": 1790320666255,
   "appVersion": "6.9.84 (2026.09.24)",
   "tables": [
     "characters",
@@ -109,9 +109,10 @@
   ],
   "chunkedTables": {
     "imageStore": 18,
-    "roleStickers": 4,
-    "messages": 5,
-    "stickerStore": 10
+    "roleStickers": 13,
+    "messages": 17,
+    "stickerStore": 10,
+    "stickers": 4
   },
   "completedTables": {
     "characters": true,
@@ -209,8 +210,7 @@
     "chatSettingsPresets": true,
     "charBondSpaces": true,
     "charLifePlans": true,
-    "_migration": true,
-    "stickers": true
+    "_migration": true
   },
   "inProgress": true
 }
