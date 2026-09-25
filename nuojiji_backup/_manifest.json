@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790317121186,
+  "timestamp": 1790317135057,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -111,8 +111,7 @@
     "imageStore": 18,
     "roleStickers": 13,
     "messages": 15,
-    "stickerStore": 10,
-    "stickers": 4
+    "stickerStore": 10
   },
   "completedTables": {
     "characters": true,
@@ -210,7 +209,8 @@
     "chatSettingsPresets": true,
     "charBondSpaces": true,
     "charLifePlans": true,
-    "_migration": true
+    "_migration": true,
+    "stickers": true
   },
   "source": "auto",
   "inProgress": true
