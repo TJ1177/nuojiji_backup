@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1790320690877,
-  "appVersion": "6.9.84 (2026.09.24)",
+  "timestamp": 1790320698528,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -109,10 +109,9 @@
   ],
   "chunkedTables": {
     "imageStore": 18,
-    "roleStickers": 13,
-    "messages": 17,
-    "stickerStore": 10,
-    "stickers": 4
+    "roleStickers": 4,
+    "messages": 5,
+    "stickerStore": 10
   },
   "completedTables": {
     "characters": true,
@@ -210,7 +209,9 @@
     "chatSettingsPresets": true,
     "charBondSpaces": true,
     "charLifePlans": true,
-    "_migration": true
+    "_migration": true,
+    "stickers": true
   },
+  "source": "auto",
   "inProgress": true
 }
