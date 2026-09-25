@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790294696260,
+  "timestamp": 1790294703872,
   "appVersion": "6.9.84 (2026.09.24)",
   "tables": [
     "characters",
@@ -175,7 +175,9 @@
     "characterLifeState": true,
     "chikanPhoneSkins": true,
     "healthEntries": true,
-    "healthProfile": true
+    "healthProfile": true,
+    "homelandState": true,
+    "fontStore": true
   },
   "inProgress": true
 }
