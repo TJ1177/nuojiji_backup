@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1790314976773,
-  "appVersion": "6.9.84 (2026.09.24)",
+  "timestamp": 1790314981130,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "friendRequests",
@@ -111,13 +111,13 @@
     "imageStore": 17,
     "roleStickers": 4,
     "messages": 4,
-    "stickerStore": 3,
-    "stickers": 4
+    "stickerStore": 3
   },
   "completedTables": {
     "characters": true,
     "friendRequests": true,
     "worldBooks": true,
+    "stickers": true,
     "kaomojis": true,
     "users": true,
     "userState": true,
@@ -212,5 +212,6 @@
     "charLifePlans": true,
     "_migration": true
   },
+  "source": "auto",
   "inProgress": true
 }
