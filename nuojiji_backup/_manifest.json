@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1790315236036,
-  "appVersion": "auto-backup",
+  "timestamp": 1790315241326,
+  "appVersion": "6.9.84 (2026.09.24)",
   "tables": [
     "characters",
     "friendRequests",
@@ -110,14 +110,14 @@
   "chunkedTables": {
     "imageStore": 17,
     "roleStickers": 4,
-    "messages": 4,
-    "stickerStore": 3
+    "messages": 14,
+    "stickerStore": 3,
+    "stickers": 4
   },
   "completedTables": {
     "characters": true,
     "friendRequests": true,
     "worldBooks": true,
-    "stickers": true,
     "kaomojis": true,
     "users": true,
     "userState": true,
@@ -212,6 +212,5 @@
     "charLifePlans": true,
     "_migration": true
   },
-  "source": "auto",
-  "inProgress": false
+  "inProgress": true
 }
