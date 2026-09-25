@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1790314935768,
-  "appVersion": "auto-backup",
+  "timestamp": 1790314938609,
+  "appVersion": "6.9.84 (2026.09.24)",
   "tables": [
     "characters",
     "friendRequests",
@@ -111,7 +111,8 @@
     "imageStore": 17,
     "roleStickers": 4,
     "messages": 4,
-    "stickerStore": 3
+    "stickerStore": 3,
+    "stickers": 3
   },
   "completedTables": {
     "characters": true,
@@ -212,6 +213,5 @@
     "charLifePlans": true,
     "_migration": true
   },
-  "source": "auto",
   "inProgress": true
 }
