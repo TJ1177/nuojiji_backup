@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790767149301,
+  "timestamp": 1790767154593,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -157,7 +157,8 @@
     "quickReplies": true,
     "goingOutState": true,
     "goingOutAreas": true,
-    "forumItems": true
+    "forumItems": true,
+    "xinshengRounds": true
   },
   "source": "auto",
   "inProgress": true
